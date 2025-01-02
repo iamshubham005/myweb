@@ -24,7 +24,6 @@
         <properties>
                 <docker.image.prefix>kammana</docker.image.prefix>
                 <sonar.host.url>http://52.66.4.157:9000/</sonar.host.url>
-                <sonar.login>squ_2c56ceba93eaa8010daed3f1fb43ab83baf31581</sonar.login>
                 <maven.compiler.source>1.8</maven.compiler.source>
                 <maven.compiler.target>1.8</maven.compiler.target>
                
